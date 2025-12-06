@@ -1,0 +1,6 @@
+@SmsGateWay_HostAddress = http://localhost:5278
+
+GET {{SmsGateWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

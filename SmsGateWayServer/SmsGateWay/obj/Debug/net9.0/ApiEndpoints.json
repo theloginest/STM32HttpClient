@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "SmsGateWay.Controllers.ReceiveController",
+    "Method": "Get",
+    "RelativePath": "api/Receive",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmsGateWay.Controllers.ReceiveController",
+    "Method": "Post",
+    "RelativePath": "api/Receive",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sms",
+        "Type": "SmsGateWay.Entities.SmsLog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

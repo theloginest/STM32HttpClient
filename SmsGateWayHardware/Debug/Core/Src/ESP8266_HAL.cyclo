@@ -1,0 +1,3 @@
+../Core/Src/ESP8266_HAL.c:46:6:ESP_Init	8
+../Core/Src/ESP8266_HAL.c:108:5:HTTP_GET_Request	10
+../Core/Src/ESP8266_HAL.c:264:5:HTTP_POST_Request	9

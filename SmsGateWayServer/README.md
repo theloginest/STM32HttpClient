@@ -1,0 +1,2 @@
+# SmsGateWayServer
+run on localhost
